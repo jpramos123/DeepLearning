@@ -1,0 +1,18 @@
+Nome: Joao Paulo de Oliveira Ramos
+
+Exercicio: Deep Learning
+
+1) Comparação do tempo de execução TOTAL
+
+DBN: 20.24s
+LeNet: 85.06s
+
+2) Comparação do tempo de execução no TREINAMENTO
+
+DBN: 19.78s
+LeNet: 83.29s
+
+3) Comparação do tempo de execução no CLASSIFICAÇÃO
+
+DBN: 0.028s
+LeNet: 0.71s
